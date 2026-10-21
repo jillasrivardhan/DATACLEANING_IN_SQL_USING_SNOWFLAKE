@@ -1,0 +1,721 @@
+employee_id,employee_name,age,city,department,salary,email,hire_date,employment_status
+341,Meera Sharma,52,Siddipett,Support,48000,meera.sharma614@outlook.com,2021-05-17,On Leave
+291,Aarav Joshi,41,Vijayawada,Operations,42000,aarav.joshi198@outlook.com,2022-02-15,Inactive
+55, Arjun Joshi ,44,Bengaluru,Support,unknown,arjun.joshi692@yahoo.com,2021-08-10,Inactive
+199,Sraavya Sharma,53,Hyderabad,Operations,35000,sravya.sharma481@example.com,2025-10-05,Active
+454,Sanjay Singh,33,Delhi,IT,75000,sanjay.singh434@yahoo.com,2025-11-30,Inactive
+66,Nikhil Mishraa,49,Bengaluru,Sales,82000,nikhil.mishra280@yahoo.com,2023-04-29,On Leave
+64,Arjun Joshi,56,Karimnagar,Support,60000,arjun.joshi839@gmail.com,NULL,On Leave
+146, Sneha Sharma ,29,Karimnagar,Sales,32000,SNEHA.SHARMA232@EXAMPLE.COM,2024-04-30,Active
+293,Sravya Shetty,43,Delhi,OPERATIONS,68000,sravya.shetty341@yahoo.com,2022-10-02,On Leave
+391,Manoj Sharma,unknown,Siddipet,Finance,60000,manoj.sharma233@gmail.com,2024-06-18,On Leave
+675,KAVYA MISHRA,45 years,Warangal,Marketing,28000,kavya.mishra50@yahoo.com,2024-07-18,Active
+449,Pooja Chowdhury,33,Pune,Finance,35000,pooja.chowdhury435@yahoo.com,2022-05-17,On Leave
+40,meera shetty,58,Vijayawada,Support,95000,meera.shetty824@yahoo.com,2024-09-16,Inactive
+102,Nehaa Singh,30,Bengaluru,Support,52000,neha.singh44@outlook.com,2022-08-18,On Leave
+431,Vikram Chowdhury,37,Delhi,HR,75000,vikram.chowdhury789@outlook.com,2021-01-18,Inactive
+329,Rahul Gupta,36,Karimnagar,HR,52000,rahul.gupta117@example.com,2024-01-11,On Leave
+87,Nikhil Verma,57,Chennai,Sales,NULL,nikhil.verma543@outlook.com,2021-10-09,Inactive
+628,Aarav Patel,44,Delhi,hr,42000,aarav.patel349@gmail.com,2023-01-12,On Leave
+260,Neha Singh,57,Siddipet,Support,95000,neha.singh691@example.com,2023-01-04,On Leave
+214,Rahul Sharma,56,Warangal,Support,48000,rahul.sharma589@yahoo.com,2021-05-25, Inactive 
+447,Sravya Naidu,41,Chennai,HR,48000,sravya.naidu806@gmail.com,2024-08-11,On Leave
+368,nikhil yadav,33,Warangal,IT,60000,nikhil.yadav313@outlook.com,2024-07-10,On Leave
+34,Rohan Sharma,NULL,Pune,Support,52000,rohan.sharma218@outlook.com,2023-09-26,Inactive
+687,Pooja Yadav,37,Hyderabad,Operations,unknown,pooja.yadav839@outlook.com,2023-01-05,Inactive
+479,Kiran Rao,30,Hyderabad,Operations,75000,kiran.rao130@yahoo.com,2024-09-08,Inactive
+324,Vikram Verma,24,Warangal,IT,82000,vikram.verma140@gmail.com,2022-07-29,Inactive
+255,Vikram Sharma,37,Bengaluru,Finance,35000,vikram.sharma41@example.com,2026-01-15,On Leave
+211,Vikram Mishra,39,Chennai, Finance ,52000,vikram.mishra974@example.com,2022-03-24,On Leave
+121,Neha Rao,48,Hyderabad,Marketing,95000,neha.rao963@yahoo.com,2025-07-10,Active
+134,Kiraan Verma,34,Vijayawada,Finance,68000,kiran.verma495@outlook.com,2023-12-04,Inactive
+418,Rohan Das,54,Hyderabad,Support,52000,,2025-06-15,On Leave
+364,Kiran Reddy,49,Warangal,HR,48000,kiran.reddy261@gmail.com,2023-04-17,Inactive
+337,Arjun Patel,unknown,Hyderabad,Operatons,75000,arjun.patel688@gmail.com,2024-10-18,On Leave
+376,Nikhil Naidu,28,Siddipet,Support,35000,nikhil.naidu96@yahoo.com,2022-12-17,Inactive
+572,Manoj Patel,40,CHENNAI,Sales,68000,manoj.patel871@yahoo.com,2025-05-20,Active
+637,Sravya Das,59,pune,Marketing,60000,sravya.das555@example.com,2022-11-05,Inactive
+375,Isha Yadav,49,warangal,Marketing,95000,isha.yadav194@yahoo.com,2021-04-19,Active
+570,Sravya Gupta,24,Vijayawada,Sales,N/A,sravya.gupta715@gmail.com,2024-01-24,On Leave
+584,Kavya Naidu,31, Vijayawada ,Marketing,28000,kavya.naidu46@outlook.com,2023-01-25,Active
+494,Aditya Sharma,52,Karimnagar,Operations,60000,aditya.sharma546@gmail.com,2024-11-03, Active 
+301,Sravya Kumar,56,Pune,MARKETING,60000,sravya.kumar461@example.com,2025-08-07,Inactive
+136,Vikram Rao,55,Siddipet,Marketing,32000,vikram.rao375@outlook.com,2022-01-18,Active
+50,Sravya Mishra,30,karimnagar,Sales,82000,sravya.mishra473@outlook.com,2022-04-21,Inactive
+568,Pooja Joshi,42,Mumbai,Support,32000,pooja.joshi699@example.com,2022-01-15,Active
+417,Meera Chowdhury,33,Bengaluru,IT,42000,meera.chowdhury338@outlook.com,2021-12-03,Active
+73,Manoj Gupta,44,Delhi, HR ,52000,manoj.gupta290@example.com,2026-02-23,Inactive
+343,Ananya Gupta,40,Chennai,Support,52000,ananya.gupta702@outlook.com,2022-07-10,Active
+598,Sanjay Joshi,39,Chennai,Marketing,68000,sanjay.joshi225@gmail.com,2021-07-17,Inactive
+652,Rahul Chowdhury,29,Karimnagar,Operations,32000,rahul.chowdhury311@gmail.com,2023-12-07,Active
+78,arjun sharma,56,Pune,Support,52000,arjun.sharma729@gmail.com,2021-07-30,Inactive
+523,Priya Patel,31,Karimnagar,Sales,75000,priya.patel387@yahoo.com,2024-05-15,Inactive
+673,Aarav Rao,29,Pune,Sales,48000,aarav.rao673@outlook.com,2022-10-24,On Leave
+438,Divya Singh,47,Delhi,Support,35000,NULL,2022-05-26,Inactive
+592,Kiran Sharma,38,Karimnagar,Sales,75000,kiran.sharma901@outlook.com,2024-03-23,Active
+132,Manoj Shetty,44 years,Bengaluru,Marketing,28000,manoj.shetty917@gmail.com,2024-12-07,Active
+353,Sneha Yadav,52,Siddipet,Operations,75000,sneha.yadav478@yahoo.com,not available,Inactive
+212,Sanjay Shetty,NULL,Siddipet,Sales,48000,sanjay.shetty290@gmail.com,2025-01-22,On Leave
+216,Kavya Sharma,30,Mumbai,Support,75000,kavya.sharma43@gmail.com,2021-09-10,On Leave
+85,Pooja Reddy,55,Bengaluru,Marketing,35000,pooja.reddy329@gmail.com,2022-08-25,Active
+330,Rahul Verma,53,Chennai,Sales,68000,rahul.verma850@gmail.com,2023-12-15,Inactive
+533,Sneha Patel,22,Delhi,IT,75000,sneha.patel525@yahoo.com,2023-11-27,Active
+11,Sneha Reddy,47,Bengaluru, Finance ,60000,sneha.reddy885@gmail.com,2023-08-15,On Leave
+79,Priya Singh,45,Mumbai,Finance,42000,PRIYA.SINGH384@YAHOO.COM,2021-06-17,Active
+394,Manoj Singh,47,Karimnagar,hr,60000,manoj.singh420@example.com,2026-02-24,On Leave
+251,rohan singh,44,vijayawada,SUPPORT,68000,rohan.singh714@gmail.com,NULL,Inactive
+98,Sravya Verma,40,Warangal,SALES,82000,sravya.verma345@example.com,2024-04-30,On Leave
+655,Ananya Naidu,51,Hyderabad,FINANCE,75000,ananya.naidu168@yahoo.com,2023-10-13,Active
+156,Meeraa Naidu,33, Chennai ,Marketing,68000,meera.naidu923@yahoo.com,2025-02-09, Active 
+528,Aditya Singh,33,Karimnagar,Marketing,60000,aditya.singh660@example.com,2024-06-16,Active
+597,Isha Gupta,23,Delhi,HR,35000,isha.gupta705@outlook.com,2023-05-07,On Leave
+669,Kavya Verma,unknown, Vijayawada ,Support,32000,kavya.verma668@outlook.com,2025-10-03,Active
+409,Neha Mishra,47,Warangal,Finance,82000,neha.mishra86@yahoo.com,not available,Active
+82,Isha Sharma,22,Bengaluru,Finance,48000,isha.sharma808@gmail.com,2023-01-02,Inactive
+383,Ananya Das,47,Bengaluru,IT,32000,ananya.das722@outlook.com,2025-12-01,Inactive
+149,Vikram Chowdhury,24,Bengaluru,Finance,95000,vikram.chowdhury920yahoo.com,2025-05-25,Inactive
+537,Rohan Patel,35,Pune,Marketing,52000,rohan.patel68@example.com,2024-02-25,Inactive
+582,Sravya Mishra,23,Hyderabad,HR,32000,sravya.mishra701@example.com,2022-01-13,ON LEAVE
+345,Rohan Kumar,35,Vijayawada,IT,32000,rohan.kumar878@yahoo.com,2021-09-21,On Leave
+347,Arjun Joshi,53,Hydrabad,Finance,NULL,arjun.joshi747@yahoo.com,2025-05-19,On Leave
+249,Sanjay Das,26,Bengaluru,HR,48000,sanjay.das641@yahoo.com,2023-05-15,On Leave
+534,Kavya Chowdhury,50,Mumbai,Operations,48000,kavya.chowdhury829@example.com,2025-03-07,Inactive
+307,Neha Patel,51,Bengaluru,Operations,60000,neha.patel149@example.com,2022-06-22,Active
+193,Sneha Gupta,28,Delhi,IT,48000,sneha.gupta109@example.com,2025-05-27,Active
+300,Kaavya Das,29,Bengaluru,HR,48000,kavya.das12@gmail.com,2021-10-03,On Leave
+32,Sravya Yadav,23,Siddipet,Support,82000,sravya.yadav546@example.com,2022-12-13,On Leave
+504,Arjun Yadav,30,Siddipet,Support,28000,arjun.yadav672@yahoo.com,2025-05-12,Inactive
+550,Divya Das,31,Siddipett,Marketing,75000,divya.das151@gmail.com,2025-03-27,Active
+232,sanjay mishra,30,Hyderabad,Support,32000,sanjay.mishra949@example.com,2023-08-24,Active
+458,Aarav Singh,52,Delhi,Marketing,48000,aarav.singh776@outlook.com,2023-08-28,On Leave
+661,Arjun Gupta,22,Mumbai,Support,48000,arjun.gupta791@gmail.com,2021-10-15,On Leave
+235,Pooja Gupta,53,Siddipet,Marketing,32000,pooja.gupta349@gmail.com,2022-08-26,On Leave
+56,Isha Reddy,29,Siddipet,HR,75000,isha.reddy465@outlook.com,2023-03-07,On Leave
+210,Kiran Shetty,40,Chennai,Marketing,28000,kiran.shetty809@outlook.com,2023-10-02,Active
+339, Vikram Rao ,42,Pune,Support,75000,vikram.rao956@example.com,2021-05-16,Active
+175,Aditya Patel,54,Mumbai, IT ,60000 INR,aditya.patel989@example.com,2023-05-08,On Leave
+351,Vikram Verma,28,Karimnagar,Marketing,60000,vikram.verma859@example.com,2022-04-22,On Leave
+77,Nikhil Patel,51,Mumbai,HR,48000,nikhil.patel856@yahoo.com,2026-01-26,Inactive
+3,Sravya Shetty,25,Chennai,Marketing,42000,sravya.shetty678@yahoo.com,2021-04-04,Inactive
+549,Kiran Sharma,22,Pune,SALES,52000,kiran.sharma998@outlook.com,2021-12-30,Active
+110,Manoj Naidu,53,Hyderabad,Sales,35000,manoj.naidu468@gmail.com,2023-05-01,On Leave
+292,Neha Verma,57,Vijayawada,HR,48000,neha.verma176@gmail.com,2022-05-17,Inactive
+253, Kavya Shetty ,34,Hyderabad,Support,95000,kavya.shetty242@example.com,2021-08-20,Inactive
+312,Sneha Shetty,27,Pune,OPERATIONS,48000,sneha.shetty75@gmail.com,2021-03-13,On Leave
+352,Isha Gupta,27,Vijayawada, HR ,,NULL,2021-09-08,Inactive
+209,Sravya Patel,32,Karimnagar,FINANCE,68000,sravya.patel77@yahoo.com,2024-10-30,Active
+358,Rahul Das,37,Mumbai,HR,48000,rahul.das305@example.com,2021-04-08,Active
+182,Arjun Chowdhury,,Siddipet,Finance,28000,arjun.chowdhury167@yahoo.com,2021-04-12,Active
+236,Nikhil Mishra,51,Pune,Marketing,28000,nikhil.mishra265@gmail.com,2024/13/40,Inactive
+228,Neha Gupta,29,Siddipet,IT,68000 INR,neha.gupta618@gmail.com,2026-01-22,On Leave
+658,Pooja Verma,22,Warangal,Sales,unknown,pooja.verma722@yahoo.com,2025-08-04,Active
+119,Sanjay Joshi,42,Karimnagar,Sales,75000,sanjay.joshi782@example.com,2022-06-12,On Leave
+451, Sravya Naidu ,51,Siddipet,Finance,35000,sravya.naidu159@yahoo.com,2022-02-05,Active
+624,sanjay naidu,59,Karimnagar,Finance,52000,sanjay.naidu495@example.com,2022-11-23,Inactive
+91,Priya Das,40,Siddipet,Marketing,35000,priya.das166@outlook.com,2021-12-04,On Leave
+515,Rahul Kumar,27,Delhi,Operations,68000,rahul.kumar16@yahoo.com,2025-07-07,Inactive
+328, Manoj Sharma ,55 years,Vijayawada, Sales ,48000,manoj.sharma814@yahoo.com,2024-03-24,On Leave
+378,Nikhil Mishra,21,Vijayawada,Marketing,95000,nikhil.mishra994@gmail.com,2022-11-06,On Leave
+61,Sravya Mishra,45,Delhi,Marketing,52000,sravya.mishra544@outlook.com,2024-05-08,Inactive
+580,Divya Verma,38,Delhi,Sales,28000,divya.verma276@outlook.com,2023-01-11,On Leave
+31,Sravya Joshi,40,Siddipet,Support,35000,sravya.joshi593@gmail.com,2021-08-10,Inactive
+70,Kiraan Patel,33,Siddipet,HR,48000,kiran.patel617@yahoo.com,2021-12-22,On Leave
+399,Neha Das,40,Delhi,HR,52000,neha.das683@yahoo.com,2022-08-06,On Leave
+623,Sneha Mishra,31,Chennai,Support,28000,sneha.mishra487@outlook.com,2023-05-14, Inactive 
+45,Sneha Naidu,52,Siddipet,Operations,35000,sneha.naidu299@outlook.com,2025-01-07,Inactive
+295,Kavya Joshi,27,delhi,HR,75000,kavya.joshi838@gmail.com,2023-04-11,Inactive
+71,ROHAN KUMAR,49,Pune,IT,N/A,rohan.kumar311@outlook.com,2024-07-17,On Leave
+389,Rohan Shetty,50,Delhi,Support,95000,rohan.shetty905@outlook.com,2021-09-26,On Leave
+653,Rahul Naidu,58,Karimnagar,IT,75000,rahul.naidu613@example.com,2022-03-17,Inactive
+589,Priya Das,25,Bengaluru,IT,35000,priya.das528@example.com,2021-09-29,Inactive
+463,Rohan Das,25,Karimnagar,Marketing,82000,rohan.das352@example.com,2024-08-11,On Leave
+674,Sneha Chowdhury,27,Bengaluru,Finance,82000,sneha.chowdhury232@outlook.com,2022-05-27,Active
+421,Ananya Patel,24,Warangal,Marekting,28000,ananya.patel320@example.com,2021-09-19,On Leave
+221,Divya Kumar,26,Pune,Marketing,75000,divya.kumar373@gmail.com,2023-03-24,On Leave
+553,SRAVYA REDDY,57,Bengaluru,Support,68000,sravya.reddy812@outlook.com,2025-06-12,Inactive
+336,Aditya Chowdhury,51,Pune,Finance,32000,aditya.chowdhury42@yahoo.com,2026-01-18, On Leave 
+120,Priya Gupta,24,Chenai,Support,32000 INR,PRIYA.GUPTA7@EXAMPLE.COM,not available,Active
+137,Sravya Kumar,26,Vijayawada,Marketing,82000,sravya.kumar138@outlook.com,2024-10-08,Active
+7,Rohan Reddy,50,Vijayawada,Sales,35000,rohan.reddy977@outlook.com,2021-01-07,On Leave
+224,Isha Yadav,53,Pune,Marketing,28000,isha.yadav143@example.com,2025-12-12,Active
+165,Priya Yadav,43,Karimnagar,Marketing,60000,priya.yadav866@yahoo.com,2025-09-15,Active
+166,Isha Gupta,23,Vijayawada, HR ,68000,isha.gupta58@yahoo.com,2021-07-04,On Leave
+200,Aditya Naidu,,Siddipet,Support,68000,aditya.naidu122@example.com,2022-10-10,On Leave
+133,Meera Gupta,57,Mumbai,Marketing,82000,meera.gupta457@outlook.com,2022-03-29,Inactive
+502,Aarav Patel,43,Bengaluru,Sales,35000,aarav.patel294@yahoo.com,2024-09-04,On Leave
+396,Kavya Sharma,30,Vijayawada,Marketing,82000,kavya.sharma414@example.com,2024-12-05,On Leave
+42,Arjun Joshi,51,Hyderabad,Support,35000,arjun.joshi668@example.com,2023-11-29,Inactive
+109,Rahul Gupta,25,Pune,Marketing,52000,rahul.gupta578@gmail.com,2026-02-22,Active
+645,Sravya Mishra,49,Mumbai,Operations,unknown,sravya.mishra848@gmail.com,2023-09-12,Inactive
+57,Arjun Sharma,49,Chennai,HR,68000,arjun.sharma876@outlook.com,2022-04-29,Active
+159,Sneha Kumar,47,Pune,Sales,52000,sneha.kumar549@outlook.com,2021-09-05,Active
+465,Sravya Joshi,21,Karimnagar,IT,60000,sravya.joshi873@example.com,2024-01-08,Inactive
+325,Meera Reddy,52,Bengaluru,Support,75000,meera.reddy222@example.com,2025-11-01,Inactive
+532,vikram mishra,49,Bengaluru,Operatons,52000,vikram.mishra165@yahoo.com,2025-07-14,Inactive
+25,Aarav Shetty,35,Siddipet,Support,60000,aarav.shetty824@example.com,2021-12-27,Active
+542,Kiran Yadav,49,Delhi,Support,60000,kiran.yadav126@yahoo.com,2024-09-30,On Leave
+261,Rohan Gupta,47,Chennai,Finace,52000,rohan.gupta649@example.com,2025-04-15,On Leave
+551,Rohan Shetty,59,Mumbai,Support,95000,rohan.shetty116@outlook.com,not available,On Leave
+303,Neha Yadav,24,Delhi,Finance,82000,neha.yadav352@gmail.com,2026-01-25,Inactive
+432,Sanjay Patel,51,Karimnagar,operations,42000,sanjay.patel529@example.com,2022-04-24,On Leave
+111,Priya Shetty,39,Siddipet,Sales,28000,priya.shetty185@yahoo.com,2023-04-18,On Leave
+83,Nikhil Chowdhury,29,PUNE,Operations,35000,nikhil.chowdhury734@example.com,2021-05-10,Active
+52,Isha Das,59,Vijayawada,Support,42000,isha.das361@yahoo.com,2025-07-01,On Leave
+680,Isha Naidu,21,Chennai,HR,unknown,isha.naidu258@outlook.com,2021-06-03,Active
+577,Isha Das,58,Hyderabad,Finance,48000,NULL,2023-02-26,Active
+590,Priya Reddy,49,Chenai,Sales,60000,priya.reddy855@example.com,2025-02-25,Inactive
+282,kiran das,59,Hyderabad,Operations,82000,kiran.das340@gmail.com,2022-09-04,Active
+258,Aditya Mishra,54,Bengaluru,operations,68000,aditya.mishra719@outlook.com,2024-07-01,Active
+640,Sanjay Gupta,47,Bengaluru,Finance,42000,sanjay.gupta614@outlook.com,2026-01-19,Inactive
+319,Sravya Singh,26,Warangal,IT,68000,sravya.singh8@yahoo.com,2021-01-14,Active
+19,Ananya Yadav,32,Warangal,Sales,28000,ananya.yadav947@outlook.com,2025-02-17,Inactive
+245,Nikhil Singh,29,WARANGAL,HR,28000,nikhil.singh241@outlook.com,2025-01-30,ON LEAVE
+395,Pooja Sharma,30,Bengaluru,Support,28000,pooja.sharma589@gmail.com,2026-01-23,On Leave
+604,Nikhil Paatel,57,Siddipet,Finance,95000,nikhil.patel386@outlook.com,2023-08-24,INACTIVE
+500,Sanjay Singh,23,Hyderabad,it,28000,sanjay.singh255@gmail.com,2021-09-28,Inactive
+62,Pooja Verma,27,Pune,Sales,60000,pooja.verma438@outlook.com,2022-10-03,On Leave
+183,Sravya Yadav,38,Vijayawada,Operations,95000,sravya.yadav917@example.com,2023-05-18, Inactive 
+507,Kiran Rao,47,Pune,HR,75000,kiran.rao216@yahoo.com,2022-05-12,Active
+30,Isha Sharma,35,Mumbai,it,52000,isha.sharma71@gmail.com,2024-08-24,Active
+205,Sravya Chowdhury,41,Mumbai,Finance,75000,sravya.chowdhury755@yahoo.com,2024-12-28,Active
+618,Aarav Mishra,24,Siddipett, Sales ,95000,aarav.mishra198@yahoo.com,2021-05-14,On Leave
+266,Priya Gupta,46,Bengaluru,Finance,32000,priya.gupta445@yahoo.com,2023-10-25,Active
+357,aditya sharma,45,Chennai,Sales,82000,aditya.sharma587@gmail.com,2022-10-23,Inactive
+470,Meera Singh,32,Pune,FINANCE,82000,meera.singh764@example.com,2024-08-29,On Leave
+668,Vikram Reddy,43,Pune,Operations,82000,vikram.reddy325@example.com,2025-03-16,ACTIVE
+450,Nikhil Singh,30,Mumbai,MARKETING,60000,nikhil.singh977@example.com,2025-08-06,Active
+433,Kiran Rao,43,Hyderabad,Sales,95000,,2022-11-27,Inactive
+620,Meera Rao,40,Karimnagar,Operations,35000,meera.rao389@outlook.com,2021-04-20,Active
+257,Neha Das,52,Bengaluru,HR,75000,NULL,,On Leave
+354,Nikhil Verma,23,Bengaluru,Sales,68000,nikhil.verma182@outlook.com,2021-03-09,On Leave
+440,Sanjay Das,21,Karimnagar,Sales,28000,sanjay.das118@yahoo.com,2022-05-29,Inactive
+177,Rohan Das,21,Vijayawada,Marketing,68000,rohan.das718@example.com,2025-05-30,Active
+240,Sanjay Joshi,37,Siddipet,Finance,52000,sanjay.joshi562@outlook.com,2022-01-19,Active
+427,Kiran Verma,38,Karimnagar,IT,95000,kiran.verma130@example.com,2025-11-23,Active
+138, Ananya Gupta ,29,Warangal,Sales,48000,ananya.gupta323@example.com,2022-01-19,On Leave
+197,Sneha Singh,49,Delhi,Sales,82000,sneha.singh626@example.com,2022-01-07,Inactive
+675,KAVYA MISHRA,45 years,Warangal,Marketing,28000,kavya.mishra50@yahoo.com,2024-07-18,Active
+164,Aditya Gupta,32,Chennai,SALES,48000,aditya.gupta327@yahoo.com,2021-02-23,Active
+356,KAVYA SINGH,36,Chennai,IT,95000,KAVYA.SINGH241@OUTLOOK.COM,2022-05-23,On Leave
+632,Sneha Das,24,Pune,Sales,N/A,sneha.das614@outlook.com,2025-12-27,INACTIVE
+471,Isha Mishra,58,Mumbai,HR,28000,isha.mishra587@example.com,2024-03-19,Inactive
+579,Divya Das,57,Mumbai,Sales,60000,divya.das582@outlook.com,2025-01-12,Active
+469,Kavya Chowdhury,unknown,Delhi,IT,95000,kavya.chowdhury974@example.com,2023-02-11,On Leave
+320,Meera Kumar,NULL,Delhi,Operations,28000,meera.kumar735@example.com,2022-01-04,On Leave
+535,Divya Kumar,48,Karimnagar,Operations,68000,divya.kumar457@example.com,2025-12-14,On Leave
+105,Divya Shetty,57,Hyderabad,IT,48000,divya.shetty110@outlook.com,2024-05-19,Inactive
+115,Sanjay Yadav,47,Mumbai,Finance,60000,sanjay.yadav308@example.com,2021-11-02,Active
+676,Nikhil Patel,55,Pune,Marketing,48000,nikhil.patel121@outlook.com,2023-06-20,On Leave
+213,Neha Sharma,34,Siddipett,HR,95000,neha.sharma702@example.com,2025-11-07,Active
+646,Arjun Yadav,31,Delhi,Support,32000,ARJUN.YADAV423@OUTLOOK.COM,2023-01-21,Active
+382,Maanoj Singh,56,Banglore,Marketing,28000,manoj.singh940@gmail.com,2021-06-06,On Leave
+93,Meera Yadav,25,Bengaluru,Finance,68000,meera.yadav62@yahoo.com,2024-11-11,Inactive
+8,Manoj Shetty,52,Hyderabad,Marketing,52000,manoj.shetty115@outlook.com,2021-02-09,Inactive
+90,Ishaa Gupta,57,Bengaluru,Support,60000,isha.gupta129@outlook.com,2021-06-01,On Leave
+546,Rohan Sharma,27,Pune,Finance,52000,rohan.sharma665@example.com,2021-04-11,On Leave
+689,Ananya Yadav,52,Bengaluru,HR,48000,ananya.yadav346@example.com,2022-12-20,Inactive
+539,Aarav Shetty,46,PUNE,Finance,35000,aarav.shetty918@gmail.com,2021-03-17,Inactive
+552,Vikram Shetty,38,Bengaluru,Operations,32000,vikram.shetty642@example.com,2025-12-02,On Leave
+599,Isha Das,36,Pune,Marketing,60000,isha.das298@outlook.com,2021-03-01,On Leave
+698,Pooja Shetty,32,Vijayawada,SALES,32000,,2022-06-18,Active
+141,Meera Patel,48,Delhi,Operations,52000,meera.patel631@yahoo.com,2021-12-06,Active
+29,Sanjay Joshi,26,Delhi,Operations,28000,sanjay.joshi439@yahoo.com,2024-08-09,Inactive
+44,Isha Mishra,34,Pune,Support,28000,isha.mishra563@yahoo.com,2022-07-01,Inactive
+43,Isha Rao,23,Bengaluru,Support,75000,isha.rao91@outlook.com,2023-07-21,Inactive
+74,Sravya Das,58,Warangal,Finance,32000,sravya.das145@outlook.com,2024-09-21,Inactive
+168,Rohan Kumar,43,Mumbai,Operations,82000,rohan.kumar682@yahoo.com,2022-04-03,Inactive
+558,Aditya Gupta,55,Chennai,HR,82000 INR,,2026-01-18,Active
+630,Kiran Joshi,50,Mumbai,Sales,95000,kiran.joshi498@example.com,2021-01-24,Inactive
+67,Vikram Yadav,39,Warangal,Support,48000,vikram.yadav123@gmail.com,2022-11-03,Inactive
+12,Meera Das,27,Siddipet,Sales,75000,meera.das668@gmail.com,not available,ACTIVE
+327,Rahul Sharma,31,Pune,Operations,48000,rahul.sharma471@gmail.com,,Inactive
+587,Neha Gupta,51,Siddipet,Finance,95000,neha.gupta236@example.com,2024-05-24,Inactive
+179,Arjun Shetty,40,Chennai,IT,52000,arjun.shetty288@example.com,2022-09-29,On Leave
+287,Priya Mishra,50,Warangal,Sales,35000,priya.mishra886@outlook.com,2026-01-01,Inactive
+548,Vikram Verma,39,Vijayawada,Operations,82000,vikram.verma4@gmail.com,2025-02-11,Active
+435,Sravya Naidu,25,Hyderabad,HR,42000,sravya.naidu987example.com,2026-02-10,Inactive
+685,Isha Gupta,45,Delhi,Support,82000,isha.gupta532@example.com,2024-05-27,Active
+452,Priya Shetty,31,Siddipet,Sales,82000,priya.shetty782@example.com,2022-02-02,INACTIVE
+178,Kavya Shetty,52,Bengaluru,Finance,60000,kavya.shetty624@example.com,2024-03-17,Active
+514,Vikram Yadav,53,Warangal,Support,35000,vikram.yadav747@outlook.com,2023-11-24,Inactive
+650,Sravya Yadav,43,Siddipet,Operations,42000,sravya.yadav471@gmail.com,2023-10-19,On Leave
+84,Divya Verma,42,Hyderabad,Support,95000,divya.verma128@outlook.com,2022-07-14,Inactive
+219,Kavya Kumar,49,Chennai,Sales,68000,kavya.kumar794@outlook.com,2023-01-05,Inactive
+486,Kavya Shetty,39,Karimnagar,IT,42000,kavya.shetty137@example.com,2021-03-24,Inactive
+508,Isha Das,22,delhi,Support,35000,isha.das375@yahoo.com,2021-10-28,Active
+468,Neha Singh,58,Siddipet,HR,52000,neha.singh825@gmail.com,2025-11-09,On Leave
+622,MANOJ GUPTA,34,Vijayawada,IT,75000,manoj.gupta224@example.com,2022-06-13,Inactive
+634,Aditya Naidu,44,Hyderabad,IT,52000,aditya.naidu151@gmail.com,2021-03-20,Inactive
+423,Sravya Rao,27,BENGALURU,Finance,35000,sravya.rao898@gmail.com,2023-07-20,Inactive
+80,Aarav Shetty,34,Siddipet,IT,48000,aarav.shetty154@example.com,2025-09-07,Active
+24,Raahul Das,35,Karimnagar,Operations,48000,rahul.das204@yahoo.com,2025-07-10,Active
+16,Manoj Sharma,27,Mumbai,Finance,95000,manoj.sharma138@outlook.com,2025-12-04,Active
+412,Aarav Joshi,32 years,Pune,IT,28000,aarav.joshi570@example.com,2023-04-27,Inactive
+446,Meera Gupta,35,Delhi,Operations,28000,meera.gupta632@gmail.com,2021-02-13,Inactive
+276,Nikhil Das,50,Delhi,Sales,52000,nikhil.das253@example.com,2025-12-23,Inactive
+248,Kavya Rao,52,Pune,Marketing,28000,kavya.rao489@outlook.com,2025-03-28,Active
+297,Sanjay Reddy,59,Delhi,it,95000,sanjay.reddy840@example.com,2025-04-29,inactive
+530,Aarav Chowdhury,43,Warangal,Sales,95000,aarav.chowdhury246@yahoo.com,2022-01-18,inactive
+488,Isha Reddy,30,Bengaluru,HR,82000,isha.reddy524@yahoo.com,2025-02-02,Active
+265,Maanoj Sharma,30,Chennai,Marketing,82000,manoj.sharma515@yahoo.com,2022-11-01,Active
+381,Pooja Reddy,50,Hyderabad,MARKETING,52000,pooja.reddy230@yahoo.com,2024-10-17,Inactive
+332,Nikhil Chowdhury,25,Hyderabad,Finance,42000,nikhil.chowdhury893@yahoo.com,2021-02-15,On Leave
+335,Aarav Singh,50,Pune,Support,35000,aarav.singh328@yahoo.com,2026-03-16,Active
+426,Manoj Yadav,28,Delhi,Sales,32000,manoj.yadav904@yahoo.com,2021-10-23, Active 
+10,meera sharma,24,Siddipet,Operations,95000,meera.sharma70@gmail.com,2022-04-14,Inactive
+250,Divya Reddy,38,Pune,Marketing,,divya.reddy638@example.com,,Active
+23,Aarav Rao,58,Vijayawada,HR,60000,aarav.rao671@outlook.com,2024-05-27,Inactive
+222,Kiran Chowdhury,35,Pune,Finance,28000,kiran.chowdhury500@yahoo.com,2025-04-09,Active
+629,Divya Rao,23,Bengaluru,Operatons,68000,divya.rao982@example.com,2022-06-19,Active
+346,SNEHA SHARMA,51,Mumbai,Marketing,28000,sneha.sharma931@outlook.com,2021-09-01,Active
+363,Kiran Patel,28,Siddipet,Marketing,75000,kiran.patel681@outlook.com,2023-12-05,Inactive
+602,Vikram Gupta,22,Karimnagar,IT,28000,vikram.gupta963@gmail.com,2025-03-27,On Leave
+204,Ananya Chowdhury,27,Delhi,HR,35000,ananya.chowdhury674@outlook.com,2023-03-05,On Leave
+430,Meera Rao,39,Siddipet,finance,32000,meera.rao514@gmail.com,2025-09-22,Inactive
+94,Manoj Gupta,50,siddipet,Finance,42000,manoj.gupta274@example.com,2021-09-08,Active
+560,Aarav Yadav,28 years,Pune,Marketing,42000,aarav.yadav1@yahoo.com,2021-05-18,On Leave
+285,Divya Patel,50,Hyderabad,IT,28000,divya.patel816@gmail.com,NULL,On Leave
+406,Neha Joshi,23,Chennai,Sales,82000,neha.joshi883@gmail.com,2023-10-04,Inactive
+185,Sravya Singh,22,Chennai,Operations,35000,sravya.singh510@outlook.com,2024-09-04,Inactive
+581,Kavya Naidu,24,Mumbai,HR,60000,kavya.naidu962@gmail.com,2024-04-01,Inactive
+315,Nikhil Chowdhury,33,Karimnagar,HR,28000,nikhil.chowdhury738@yahoo.com,2024/13/40,Inactive
+154,Manoj Sharma,36,Hyderabad,Support,unknown,manoj.sharma484@outlook.com,2021-04-05,Inactive
+76,Manoj Sharma,29,Chennai,Support,82000,manoj.sharma386yahoo.com,2024-05-08,Active
+361,Pooja Rao,37,Vijayawada,OPERATIONS,35000,pooja.rao616@yahoo.com,2024-11-07,Inactive
+278,Priya Chowdhury,49,Mumbai,HR,68000,priya.chowdhury740@gmail.com,2021-07-05,Active
+69,Sneha Patel,54,Bengaluru,Marketing,60000,sneha.patel406@outlook.com,2021-06-11,On Leave
+410,Ananya Sharma,59,Hyderabad,Sales,48000,ananya.sharma860@example.com,2022-05-29,Inactive
+189,rahul kumar,48,Delhi,Sales,95000,rahul.kumar440@example.com,2023-04-07,inactive
+272,Sanjay Gupta,35,Delhi,Support,95000,sanjay.gupta247@yahoo.com,2023-05-05,Inactive
+237,Rohan Reddy,41,Mumbai,HR,68000,rohan.reddy224@outlook.com,2022-12-26,Active
+89,Ananya Chowdhury,53,Warangal,Support,52000,ananya.chowdhury125@yahoo.com,2022-04-05,Active
+610,Rohan Singh,25,Warangal,HR,unknown,NULL,NULL,Active
+118,Isha Naidu,41,Siddipet,Support,68000,isha.naidu209@outlook.com,2026-02-16,Inactive
+126,Divya Yadav,26,Karimnagar,Operations,32000,divya.yadav158@example.com,2022-07-03,On Leave
+591,Nikhil Singh,53,Chennai, Sales ,35000,nikhil.singh603@outlook.com,2025-01-19,Active
+290,Rohan Kumar,,Siddipet,Support,75000,rohan.kumar742@gmail.com,2022-02-25,Inactive
+239,Manoj Rao,29,bengaluru,Marekting,82000,manoj.rao539@example.com,2021-04-21,Inactive
+1,Sneha Sharma,29,VIJAYAWADA,HR,42000,sneha.sharma105@gmail.com,2025-02-17,On Leave
+685,Isha Gupta,45,Delhi,Support,82000,isha.gupta532@example.com,2024-05-27,Active
+333,Kiran Shetty,35,Vijayawada,HR,48000,kiran.shetty381@outlook.com,2023-09-19,Active
+517,Manoj Das,26,Delhi, Finance ,NULL,manoj.das424@example.com,2024-10-29,Inactive
+370,Rahul Naidu,24 years,karimnagar,Finance,35000,rahul.naidu633@example.com,2023-04-02,On Leave
+279,Nikhil Reddy,31,Vijayawada, Finance ,95000,nikhil.reddy751@gmail.com,2025-01-11,Active
+117,Rohan Rao,28,Hyderabad,HR,42000,rohan.rao773@example.com,2025-03-10,Active
+229,Aditya Reddy,51,Bengaluru,HR,,aditya.reddy239@gmail.com,2025-04-18, Inactive 
+334,Kiran Kumar,41,Karimnagar,IT,28000,kiran.kumar130@example.com,2024-03-22,Inactive
+347,Arjun Joshi,53,Hydrabad,Finance,NULL,arjun.joshi747@yahoo.com,2025-05-19,On Leave
+275,Kavya Kumar,29,Bengaluru,Sales,68000,kavya.kumar198@yahoo.com,2021-12-02,Active
+688,Rohan Chowdhury,32,Bengaluru,Support,52000,rohan.chowdhury512@gmail.com,2025-09-26,Inactive
+145,Aarav Singh,40,Karimnagar,Operations,35000,aarav.singh896@outlook.com,2021-11-22,Active
+413,Ananya Das,44,Hyderabad,IT,68000,ananya.das456@gmail.com,2022-01-31,Active
+405,Divya Gupta,26,Siddipet,Operations,75000 INR,NULL,2022-01-30,On Leave
+651,Neha Gupta,24,Mumbai,Support,32000,neha.gupta581@yahoo.com,2023-07-04,Active
+524,Isha Mishra,43,Pune,Sales,60000,isha.mishra849@example.com,2022-12-23,On Leave
+269,Arjun Gupta,,Pune,Marketing,35000,arjun.gupta597gmail.com,2023-02-11,Inactive
+498,Vikram Das,38,Pune,HR,52000,vikram.das596@example.com,2022-02-22,Active
+308,Sravya Shetty,38,Vijayawada,Finance,48000,sravya.shetty101@outlook.com,2025-07-02,On Leave
+311,Rohan Rao,38,warangal,Support,NULL,rohan.rao64@example.com,2025-05-11,Inactive
+47,Pooja Sharma,45,Hyderbad,Operations,68000,pooja.sharma680@yahoo.com,2023-03-02,Inactive
+262,Divya Joshi,40, Hyderabad ,Marketing,35000,divya.joshi308@yahoo.com,2021-01-14,Active
+196,Rahul Verma,46,Chennai,HR,32000,rahul.verma986@example.com,2023-03-31,Inactive
+503,Sneha Verma,30,Siddipet,IT,82000,sneha.verma439@outlook.com,2021-12-31,On Leave
+603,sanjay kumar,25,Vijayawada,Support,32000,sanjay.kumar517@example.com,2021-06-01,Active
+108,Divya Verma,29,Delhi,HR,42000,divya.verma157@example.com,2023-09-07,On Leave
+495,Manoj Naidu,37,Mumbai,Operations,NULL,manoj.naidu873@yahoo.com,2022-09-14,Inactive
+538,Pooja Verma,24,Chennai,HR,42000,pooja.verma506@example.com,2025-07-02,Active
+350,Isha Mishra,52,Chennai,HR,28000,isha.mishra108@example.com,2024-10-08,Inactive
+101,Arjun Joshi,38,Pune,HR,42000,arjun.joshi306@yahoo.com,2024-02-17,Inactive
+400,Rahul Sharma,34,Bengaluru,HR,68000,rahul.sharma80@outlook.com,2023-07-03,On Leave
+644,Sravya Das,36,Chennai,Support,35000,sravya.das740@gmail.com,2023-08-05,Active
+522,Kiran Verma,50,Chennai,IT,35000,kiran.verma512@outlook.com,2021-10-30,Active
+362,Arjun Yadav,32,VIJAYAWADA,Operations,75000,arjun.yadav873@gmail.com,2024-08-12,On Leave
+180,Nikhil Patel,54, Bengaluru ,Operations,68000,nikhil.patel383@gmail.com,2025-11-12,on leave
+305,Arjun Sharma,58,Siddipet,Marketing,35000,arjun.sharma155@example.com,2025-02-22,Inactive
+618,Aarav Mishra,24,Siddipett, Sales ,95000,aarav.mishra198@yahoo.com,2021-05-14,On Leave
+692,Isha Das,56,Pune,Sales,75000,isha.das197@example.com,2024-03-09,Active
+150,Kavya Gupta,25,WARANGAL,Support,68000,kavya.gupta602@gmail.com,2021-02-04,Active
+125,Rahul Verma,59,Delhi,Support,82000,rahul.verma993@outlook.com,2023-03-24,Active
+569, Rahul Joshi ,40,siddipet,HR,75000,NULL,2021-07-26,Active
+625,Divya Shetty,33,Hyderbad,operations,75000,divya.shetty770@yahoo.com,2024-03-09,Active
+186,isha shetty,31,Chennai,Marketing,48000,isha.shetty674@yahoo.com,2025-09-18,Inactive
+693,Kavya Verma,43,Karimnagar,Finance,75000,kavya.verma982@yahoo.com,2021-06-07,Inactive
+425,Neha Patel,32,Warangal,HR,28000,neha.patel269@gmail.com,2025-09-23,Active
+372,Aditya Mishra,51,Pune,IT,28000,,2021-09-30,on leave
+459,Rohan Yadav,46,Siddipet,IT,68000,rohan.yadav856@yahoo.com,2025-01-25,Active
+519,Rohan Joshi,28 years,Pune,HR,68000,rohan.joshi466gmail.com,2022-07-25,On Leave
+322,Sravya Yadav,24,Pune,IT,32000,sravya.yadav551@yahoo.com,2026-03-10,Active
+628,Aarav Patel,44,Delhi,hr,42000,aarav.patel349@gmail.com,2023-01-12,On Leave
+143,Nikhil Reddy,38,Siddipet, Sales ,75000,nikhil.reddy959@outlook.com,2024-11-23,Inactive
+142,Manoj Shetty,24,Siddipet,HR,60000,manoj.shetty888@yahoo.com,2022-07-22,On Leave
+424,Sanjay Kumar,,Hyderabad,Finance,28000,sanjay.kumar31@gmail.com,2023-01-03,Active
+321,Neha Gupta,34,Karimnagar,Sales,95000,neha.gupta55@yahoo.com,2022-07-21, Active 
+20,Nikhil Verma,35,Vijayawada,Support,42000,nikhil.verma676@yahoo.com,2021-02-18,Inactive
+173,isha kumar,48,Hyderabad,Finance,28000,isha.kumar302@example.com,2021-06-29,Active
+585,Aditya Sharma,26,Warangal,Sales,95000,aditya.sharma982@yahoo.com,2021-06-08,On Leave
+313,Aditya Sharma,51,Mumbai,Operations,68000,aditya.sharma414@gmail.com,2023-06-13,On Leave
+670,Aarav Kumar,51,Mumbai,HR,35000,aarav.kumar40@gmail.com,2025-04-11,On Leave
+13,Nikhil Rao,52 years,Bengaluru,Operations,75000,nikhil.rao195@outlook.com,2021-11-14,Active
+306,Kiran Das,45,Pune,Support,60000,kiran.das677@example.com,2022-05-03,On Leave
+355,Neha Das,unknown,Warangal,Marketing,28000 INR,neha.das507@example.com,2024/13/40,On Leave
+26,Manoj Singh,51,Mumbai,Sales,35000,manoj.singh266@yahoo.com,2023-07-11,On Leave
+536,priya gupta,39,Vijayawada,Finace,60000,priya.gupta847@outlook.com,2024-05-21,Inactive
+170,Arjun Paatel,43,Karimnagar,Operations,32000,arjun.patel806@gmail.com,2022-06-10,On Leave
+39,sravya sharma,34,Delhi,operations,32000,sravya.sharma217@outlook.com,2024-07-05,ON LEAVE
+573,Pooja Chowdhury,28 years,Bengaluru,marketing,35000,pooja.chowdhury121@outlook.com,2023-06-16,Inactive
+246,Sravya Kumar,40,Siddipet,Operations,N/A,sravya.kumar254@outlook.com,2022-04-15,Inactive
+299,Priya Sharma,28,Mumbai,Support,52000,priya.sharma289@gmail.com,2025-10-30,Active
+466,Sravya Verma,38,Vijayawada,Marketing,32000,sravya.verma724@example.com,2025-10-03,On Leave
+273,Manoj Shetty,57,Warangal,Sales,35000,manoj.shetty162@outlook.com,2026-02-22,Active
+155,Sneha Gupta,54,Hyderabad,HR,42000,sneha.gupta977@example.com,2021-04-05,Active
+127,Pooja Naidu,47 years,Mumbai,Marketing,75000,pooja.naidu27@gmail.com,2021-07-31,Inactive
+679,Manoj Kumar,31,Chennai,HR,32000,manoj.kumar650@yahoo.com,2024-07-24,On Leave
+342,Priya Kumar,43,Chennai,Sales,35000,priya.kumar55@outlook.com,2021-12-01,Inactive
+288,Kavya Reddy,42,Warangal,Finance,28000,kavya.reddy642@yahoo.com,2023-02-08,On Leave
+114,Priya Kumar,57,Mumbai,Finance,42000,NULL,2022-10-16,Active
+397,Priya Gupta,unknown,Chennai,Sales,35000,priya.gupta291@yahoo.com,2024-01-13,Active
+174,Neha Singh,44,Warangal,Finance,60000,neha.singh457@gmail.com,2022-01-18,Inactive
+512,PRIYA PATEL,57,Vijayawada,IT,82000,priya.patel578@example.com,2021-04-02,Active
+699,Manoj Sharma,40,Hyderabad,Finance,60000,manoj.sharma820@outlook.com,2021-02-26,Active
+58,Vikram Mishra,42,Delhi,IT,28000,vikram.mishra129@yahoo.com,2022-05-14,Active
+660,Neha Verma,51,Pune,Finance,32000,neha.verma902@gmail.com,2021-10-03,Inactive
+223,Sneha Chowdhury,37,Mumbai,Operations,48000,sneha.chowdhury558@yahoo.com,2024-03-31,Inactive
+281,Neha Yadav,36, Hyderabad , Marketing ,68000,neha.yadav603@example.com,2022-03-21,Inactive
+18,Kavya Joshi,29,Mumbai,HR,60000,kavya.joshi316@outlook.com,2021-03-27,Active
+246,Sravya Kumar,40,Siddipet,Operations,N/A,sravya.kumar254@outlook.com,2022-04-15,Inactive
+323,Snehaa Verma,47,karimnagar,IT,42000,sneha.verma205@example.com,2025-11-17,Active
+256,Neha Kumar,49, Siddipet ,Marketing,35000,neha.kumar840@outlook.com,2022-08-29,On Leave
+448,Meeraa Yadav,54,KARIMNAGAR,marketing,60000,meera.yadav188@example.com,2022-10-21,On Leave
+690,Sanjay Joshi,26,Siddipet,HR,32000,sanjay.joshi613@example.com,2024-12-28,Inactive
+191,Kavya Yadav,22,Karimnagar,HR,60000,kavya.yadav230yahoo.com,2022-04-13,Active
+576,Sravya Naidu,29,Vijayawada,IT,42000,sravya.naidu534@yahoo.com,2025-09-20,Inactive
+636,Ananya Mishra,47,Vijayawada,Finance,28000,ananya.mishra20@example.com,2022-03-01,ON LEAVE
+437,Vikram Sharma,,Warangal,Sales,32000,vikram.sharma827@yahoo.com,2024-05-23,On Leave
+95,Ananya Naidu,40 years,Mumbai,Finace,68000,ananya.naidu24@gmail.com,2023-10-16,Inactive
+181,Priya Naidu,38,Hyderabad,Finance,42000,priya.naidu844@example.com,2023-01-25,On Leave
+302,Aditya Naidu,51,Chennai,IT,82000,,2024-11-15,On Leave
+562,Aditya Naidu,46,Chennai,OPERATIONS,48000,aditya.naidu715@gmail.com,2023-03-02, Inactive 
+529,Kiran Gupta,46,Siddipet,operations,82000,kiran.gupta781@outlook.com,2025-09-23, On Leave 
+487,Kiran Verma,29,Bengaluru, Marketing ,60000,kiran.verma981@gmail.com,2021-08-13,Active
+484,Sravya Das,21, Pune ,IT,52000,sravya.das472@outlook.com,2024-06-14,Inactive
+635,Rahul Das,57,Bengaluru,IT,42000,rahul.das311@yahoo.com,2022-06-19,On Leave
+595,Rohan Kumar,50,Mumbai,finance,48000,rohan.kumar754@gmail.com,2024-07-15,On Leave
+6,Sneha Kumar,48,Warangal,Support,95000,sneha.kumar66@example.com,2024-05-06,Inactive
+466,Sravya Verma,38,Vijayawada,Marketing,32000,sravya.verma724@example.com,2025-10-03,On Leave
+46,Pooja Verma,39,Mumbai,Finance,28000,pooja.verma306@example.com,2025-01-26,Active
+429,Kavya Rao,26,Mumbai,IT,35000,kavya.rao456@outlook.com,2022-08-28,Active
+543,Meera Mishra,25,Karimnagar,Operations,32000,meera.mishra62@yahoo.com,2023-10-10,Active
+172,Pooja Mishra,31,Warangal,Marketing,60000,pooja.mishra104@outlook.com,2021-04-20,Active
+17,Priya Reddy,23,Bengaluru,Support,48000,priya.reddy342@yahoo.com,2021-01-08,On Leave
+49,DIVYA PATEL,27,Siddipet,Sales,32000,divya.patel171@outlook.com,2023-06-28,Active
+696, Manoj Singh ,58,Warangal,Support,75000,manoj.singh884@gmail.com,2022-10-07,On Leave
+659,Arjun Reddy,41,Siddipet,HR,35000,arjun.reddy492@example.com,2025-01-20,Active
+4,Rahul Joshi,,Warangal,Marketing,42000,rahul.joshi389@outlook.com,2023-08-05,On Leave
+482,Kavya Patel,23,Mumbai,Operations,82000,kavya.patel460@yahoo.com,2024-05-28,On Leave
+443,Sneha Yadav,23,Warangal,Operatons,35000,sneha.yadav525@gmail.com,2023-05-02,Inactive
+317,Sneha Naidu,25,Delhi,HR,82000,sneha.naidu838@gmail.com,2025-08-02,Active
+663,Neha Naidu,25,Vijayawada,Marketing,52000,neha.naidu78@gmail.com,2025-02-13,On Leave
+284,Manoj Reddy,39,Pune,Operations,82000,manoj.reddy624@outlook.com,2023-05-25,Inactive
+97,Sneha Singh,56,Chennai,support,52000,sneha.singh774@yahoo.com,2023-01-19,Active
+286,Rahul Rao,41,Vijayawada,Marketing,75000,rahul.rao7@gmail.com,2025-04-20,On Leave
+444,Aarav Singh,25,KARIMNAGAR,Sales,42000,aarav.singh835@outlook.com,2024-09-09,On Leave
+226,Sanjay Joshi,39,Delhi,Operations,28000,sanjay.joshi222@example.com,2021-06-25,On Leave
+27,Kiran Patel,34,Bengaluru,Operations,35000,kiran.patel425@example.com,2021-05-12,Inactive
+666,Ananya Reddy,23,Hyderabad,Marketing,82000,ananya.reddy131@outlook.com,2025-05-16,Active
+264,Sravya Mishra,45,Banglore,IT,82000,sravya.mishra799@gmail.com,2021-06-10,Inactive
+51,Arjun Naidu,51,Vijayawada,HR,unknown,arjun.naidu243@example.com,2021-08-07,On Leave
+365,Kavya Das,59,Vijayawada,IT,95000,kavya.das862@gmail.com,2021-03-13,On Leave
+230,Sneha Kumar,37,Bengaluru,Operations,82000,sneha.kumar876@example.com,2022-06-20,On Leave
+38,Priya Kumar,40,Warangal,Support,82000,priya.kumar255@gmail.com,2021-06-24,On Leave
+158,Rahul Joshi,29,Delhi,IT,60000,rahul.joshi299@outlook.com,2022-04-30,Inactive
+238,SRAVYA VERMA,28,Warangal,Support,32000,sravya.verma81@example.com,2026-02-28,On Leave
+691,Rahul Verma,36,Karimnagar,Sales,28000,rahul.verma159@outlook.com,NULL,Active
+375,Isha Yadav,49,warangal,Marketing,95000,isha.yadav194@yahoo.com,2021-04-19,Active
+371,Vikram Patel,45,Vijayawada,Finance,68000,vikram.patel442@yahoo.com,2021-09-24,ON LEAVE
+176,Ananya Kumar,29,Karimnagar,Support,42000,ananya.kumar434@gmail.com,2021-03-29,On Leave
+611,Pooja Joshi,46,Vijayawada,Finance,82000,pooja.joshi575@yahoo.com,2022-06-06,Active
+128,Aditya Gupta,31,warangal,Operations,60000,aditya.gupta276@outlook.com,2021-10-12,Inactive
+531,Aditya Das,59,Siddipet,IT,68000,aditya.das110@yahoo.com,2021-09-09,Inactive
+195,Ananya Das,44,Hyderabad,Support,NULL,ananya.das694@outlook.com,2025-06-30,Inactive
+613,Nikhil Singh,53,Pune,Finance,48000,nikhil.singh121@yahoo.com,2025-04-06,On Leave
+621,Kavya Joshi,54,Chennai,Finance,95000,kavya.joshi850@yahoo.com,2023-07-10,Active
+457,Sneha Das,26,Warangal,IT,48000,,2023-02-13,Active
+671,Ananya Verma,22,Siddipet,Support,35000,ananya.verma209@outlook.com,NULL,Inactive
+481,Neha Shetty,48,Pune,Support,28000,NULL,2024-10-18,Inactive
+695,Kiran Reddy,57,Chennai,IT,48000,kiran.reddy971@gmail.com,2022-06-01,On Leave
+600,Priya Rao,42,Pune,Operations,42000,priya.rao839@gmail.com,2024-07-27,Inactive
+619,Sneha Verma,57,pune,Marketing,32000,sneha.verma91@gmail.com,2023-08-07,Active
+68,Aarav Naidu,57,Siddipet,Support,52000,aarav.naidu588@example.com,2023-05-30,On Leave
+474,Priya Gupta,49,Vijayawada,Operations,75000,priya.gupta591@example.com,2021-10-14,On Leave
+169,Sravya Verma,57,delhi,HR,95000,sravya.verma960@example.com,2021-08-02,Active
+445,Arjun Reddy,45,Delhi,Finance,95000,,2024-10-20,Inactive
+480,Kavya Yadav,38,pune,Marketing,48000,NULL,2023-05-27,Inactive
+163,Neha Naidu,45,Hyderabad,IT,48000,neha.naidu430@yahoo.com,2021-10-09,On Leave
+310,Sravya Kumar,57,Bengaluru,Operations,95000,sravya.kumar991@yahoo.com,2025-07-03,Active
+194,Isha Verma,26,Karimnagar, IT ,28000,isha.verma114@example.com,2026-02-01,Active
+513,Sneha Verma,27,Bengaluru,Operations,75000,sneha.verma827@yahoo.com,2023-10-26,Active
+366,Nikhil Singh,40,Hyderabad,Sales,48000,nikhil.singh959@yahoo.com,,Inactive
+384,Sravya Rao,22,Siddipet,Sales,75000,sravya.rao405@gmail.com,2021-01-12,Active
+649,Ananya Verma,41,Warangal,Marketing,75000,ananya.verma384@example.com,2023-12-08,Inactive
+520,Aarav Yadav,32,Bengaluru,Finance,48000,aarav.yadav146@gmail.com,2021-06-21,Inactive
+153,ARJUN CHOWDHURY,42,Siddipet,Support,28000 INR,arjun.chowdhury440@outlook.com,2025-07-11,On Leave
+483,Sneha Verma,28, Karimnagar ,Support,75000,sneha.verma307@example.com,2022-08-18,Inactive
+496,Priya Mishra,55,Karimnagar, Support ,42000,priya.mishra2@outlook.com,2021-08-26,On Leave
+227,rohan shetty,25,Pune,Marketing,82000,rohan.shetty388@example.com,2022-04-16,Active
+617, Kiran Reddy ,unknown,Bengaluru,Support,32000,kiran.reddy653@gmail.com,2023-06-28,Inactive
+594,Nikhil Gupta,39,Warangal,support,68000,nikhil.gupta113@gmail.com,2026-02-24,Inactive
+104,Divya Verma,26,Vijayawada,operations,28000,divya.verma588@yahoo.com,2024-08-28,ON LEAVE
+422,Priya Patel,24,Mumbai,support,75000,priya.patel353@yahoo.com,2023-05-15,Active
+420,Sravya Joshi,22,Siddipet,Finance,NULL,sravya.joshi530@outlook.com,2023-07-19,On Leave
+656,Divya Verma,40,Mumbai,Sales,32000,divya.verma625@yahoo.com,2026-03-15,On Leave
+545,Kiran Naidu,36,Siddipet,Operations,32000,kiran.naidu916@example.com,2021-02-03,Active
+75,Manoj Reddy,22,Bengaluru,Marketing,52000,manoj.reddy317@yahoo.com,2023-01-13,Active
+116,kiran singh,42,karimnagar,Finance,42000,kiran.singh81@example.com,2024-08-17,Inactive
+408,Aditya Patel,45,Pune,Marketing,75000,aditya.patel276@gmail.com,2021-08-24,Inactive
+694,Sravya Patel,56, Chennai ,Operations,95000,sravya.patel230@example.com,2025-08-09,INACTIVE
+120,Priya Gupta,24,Chenai,Support,32000 INR,PRIYA.GUPTA7@EXAMPLE.COM,not available,Active
+54,Divya Chowdhury,50,Chennai,Support,32000,divya.chowdhury145@yahoo.com,2021-06-04, On Leave 
+152,pooja reddy,24,Pune,Marketing,82000,pooja.reddy683@yahoo.com,2022-09-26,Active
+404,Nikhil Mishra,26,Pune,HR,52000,nikhil.mishra640@example.com,2025-06-27,Inactive
+678,Rahul Das,53,Mumbai,HR,60000,rahul.das146@yahoo.com,2022-02-04, Active 
+208, Divya Chowdhury ,47,Hyderabad,Sales,60000,divya.chowdhury702@outlook.com,2025-06-03,On Leave
+491,Ananya Rao,40,Pune,Finance,52000,ananya.rao100@gmail.com,2021-08-17,On Leave
+516,Rahul Reddy,37,Warangal,Operations,68000,rahul.reddy263@example.com,2023-08-28,On Leave
+501, Aditya Shetty ,40,Pune,Support,35000,aditya.shetty491@yahoo.com,2022-11-11,Active
+555,Rahul Chowdhury,48,Vijayawada,HR,42000,rahul.chowdhury941@gmail.com,2024-04-13,Inactive
+9,Neha Kumar,48,Vijayawada,Marketing,82000,neha.kumar952@yahoo.com,2022-03-10,On Leave
+583,Sneha Reddy,53,Mumbai,Sales,32000,sneha.reddy243@yahoo.com,2021-06-08, Inactive 
+37,Priya Sharma,52,Mumbai,Finance,35000,priya.sharma894@gmail.com,2021-07-30,On Leave
+453,Priya Shetty,22,Chennai,Operations,95000,priya.shetty682@yahoo.com,2024-11-29,Inactive
+140,Kavya Gupta,55,Hyderabad,Support,68000,kavya.gupta436@gmail.com,2022-03-24,On Leave
+254,Meera Kumar,42,Pune,IT,95000,meera.kumar641@gmail.com,2025-04-05,Active
+304,Divya Chowdhury,51,Delhi,Finance,28000,divya.chowdhury174@gmail.com,2024-03-30,On Leave
+586,Nikhil Verma,39,Vijayawada,HR,82000,nikhil.verma250@outlook.com,2026-02-09,Active
+544,Nikhil Mishra,27,Warangal,Support,75000,NIKHIL.MISHRA134@YAHOO.COM,2026-02-16,Inactive
+369,Kiran Rao,41,Warangal,Operations,82000,kiran.rao289@yahoo.com,2025-06-26,Active
+60,Manoj Patel,54,Delhi,IT,95000,manoj.patel470@gmail.com,2022-09-10,Active
+112,Neha Kumar,55,Chennai,IT,35000,neha.kumar542@yahoo.com,2023-03-16,On Leave
+518,Rahul Patel,26,Bengaluru,Support,68000,rahul.patel478@example.com,2022-12-16,On Leave
+526,Divya Das,50,Bengaluru,HR,42000,divya.das391@gmail.com,2024-02-04,Active
+641,Nikhil Rao,46,Pune, HR ,35000,nikhil.rao4@outlook.com,2022-08-14,Inactive
+263,Arjun Verma,37,Delhi,HR,42000,arjun.verma308@gmail.com,2025-07-20,On Leave
+606,Rahul Kumar,54,Hyderbad,Marketing,68000,rahul.kumar860@yahoo.com,2025-01-20,Active
+298,Sravya Joshi,41,Pune,HR,42000,sravya.joshi584@outlook.com,2022-09-06,Inactive
+478,Sneha Gupta,39,Chennai,Operations,82000,sneha.gupta278@gmail.com,2024-02-04,Active
+415,Rahul Kumar,54, Vijayawada ,Marketing,42000,rahul.kumar802@outlook.com,2025-02-01,ACTIVE
+151,Neha Joshi,40,Warangal,Finance,32000,NEHA.JOSHI524@YAHOO.COM,2021-06-11,Active
+434,Sravya Shetty,45,Delhi,Marketing,60000,sravya.shetty972@example.com,2022-02-23,Active
+571,Rohan Shetty,25,Hyderabad,HR,68000,rohan.shetty971@gmail.com,2025-07-08,Inactive
+441,AARAV JOSHI,28,Siddipet,HR,48000,NULL,2023-12-31,Active
+684,Pooja Sharma,38,Siddipet,Support,unknown,pooja.sharma258@outlook.com,2026-01-27,Inactive
+267,Aditya Reddy,48,Siddipet,Operations,60000,aditya.reddy357@yahoo.com,2023-01-19,Inactive
+627,Sanjay Das,27,Pune,Operations,42000,sanjay.das132@outlook.com,2023-03-05,Active
+360,Nikhil Rao,48,Mumbai,Support,82000,nikhil.rao745@gmail.com,2024-03-05,On Leave
+639,Pooja Yadav,56,Hyderabad,Support,48000,pooja.yadav503@yahoo.com,2025-03-04,Inactive
+489,sravya kumar,30,Karimnagar,Support,82000,SRAVYA.KUMAR124@YAHOO.COM,2022-04-15,Inactive
+148,Sneha Joshi,41,Bengaluru,Finance,60000,sneha.joshi144@yahoo.com,2025-06-09, Inactive 
+147,Divya Kumar,30,Bengaluru,Support,35000,divya.kumar544@gmail.com,2021-05-21,On Leave
+527,Meera Gupta,37,Vijayawada,Finance,NULL,meera.gupta859@example.com,2022-09-22,On Leave
+667,Kiraan Shetty,22,Pune,IT,60000,kiran.shetty889@yahoo.com,2023-06-29,Inactive
+540,Priya Singh,52,Vijayawada,Operations,68000,priya.singh657@gmail.com,2025-10-05,Inactive
+349,Kavya Chowdhury,26,Vijayawada,Marketing,28000,kavya.chowdhury506@gmail.com,2022-11-03,Inactive
+464,Rohan Chowdhury,57,DELHI,HR,32000,rohan.chowdhury131@outlook.com,2023-01-24,Inactive
+326,Aarav Singh,53,Hyderabad,IT,68000,AARAV.SINGH436@EXAMPLE.COM,2021-03-10,Inactive
+187,DIVYA SINGH,58,Chennai,Finance,48000,divya.singh475@gmail.com,2022-08-26,Inactive
+124,Sanjay Shetty,57,Siddipet,Finance,35000,sanjay.shetty581@example.com,2022-05-08,On Leave
+612,Aditya Joshi,51,Vijayawada,Support,82000,aditya.joshi173@gmail.com,2022-03-05,Active
+144,Pooja Das,41,Hyderbad,Sales,48000,,2025-08-24,On Leave
+686,Pooja Das,43,Siddipett,Operations,28000,pooja.das808@example.com,NULL,Inactive
+198,Rohan Sharma,57,Mumbai, Support ,82000,rohan.sharma979@outlook.com,2022-04-04,On Leave
+280,Rohan Joshi,32,Banglore,HR,35000,rohan.joshi730@gmail.com,2024/13/40,Inactive
+294,Nikhil Naidu,37,Karimnagar,HR,35000,NIKHIL.NAIDU373@EXAMPLE.COM,2026-02-13,Active
+401,Pooja Das,29,Warangal,HR,75000,NULL,2023-09-20,Active
+123,SNEHA SHETTY,34,Mumbai,IT,42000,sneha.shetty889@example.com,NULL,Inactive
+184,Sravya Joshi,27,Vijayawada,Finance,95000,sravya.joshi66@outlook.com,2023-09-14,Inactive
+203,Rohan Reddy,58,Bengaluru,IT,95000,ROHAN.REDDY791@EXAMPLE.COM,2021-09-10,Inactive
+439,Vikram Shetty,28,Pune,Sales,75000,vikram.shetty79@gmail.com,2023-01-26,On Leave
+247,Nikhil Kumar,59,Mumbai,Marekting,82000,nikhil.kumar647@example.com,2023-07-25,On Leave
+416,Rohan Singh,54,Bengaluru,Finance,32000,rohan.singh508@outlook.com,2023-08-14,on leave
+638,Sanjay Sharma,52,Delhi,IT,95000,sanjay.sharma354@gmail.com,2024-02-24,Active
+130,Sanjay Verma,52,Vijayawada,Operations,95000,sanjay.verma801@yahoo.com,2024-03-25,Inactive
+403,Vikram Kumar,56,Pune,IT,32000,vikram.kumar70@gmail.com,2022-12-16,Inactive
+681, Sanjay Yadav ,46,Warangal,Operations,60000,sanjay.yadav199@yahoo.com,2024-04-26,Inactive
+559,Divya Joshi,24,Pune,Operations,52000,divya.joshi759@gmail.com,2021-09-06,On Leave
+220,Rahul Shetty,22,hyderabad,Support,75000,rahul.shetty596@example.com,2025-07-23,On Leave
+654,Aarav Rao,52,Bengaluru,Marketing,48000,aarav.rao181@outlook.com,2024-07-16,On Leave
+605,Sneha Naidu,46,Karimnagar,Marketing,28000,sneha.naidu238@example.com,2025-04-29,Inactive
+657,Sravya Yadav,35,Bengaluru,Support,48000,sravya.yadav484@outlook.com,2022-06-23,Inactive
+596,Aarav Patel,35,Warangal,Finace,60000,aarav.patel201@outlook.com,2024-10-11,Inactive
+387,Pooja Das,59,Pune,Operations,82000,pooja.das568@outlook.com,2025-02-06,Active
+697,Anaanya Das,52,Warangal,IT,95000,ananya.das123@outlook.com,2025-02-01,Active
+510,Anaanya Rao,29,Siddipet,Marketing,60000,ananya.rao217@example.com,2025-03-02,On Leave
+268,Meera Patel,28,Chennai,HR,,meera.patel56@yahoo.com,2025-02-23,On Leave
+442,Sneha Singh,59,Vijayawada,Sales,28000,sneha.singh50@example.com,2021-01-10,Active
+497,Aarav Das,32,Chennai,HR,48000,aarav.das995@gmail.com,2022-06-09,On Leave
+113,Kiran Rao,,Karimnagar,operations,32000 INR,kiran.rao677@example.com,2025-07-16,ON LEAVE
+233,ananya mishra,33,Pune,Sales,28000,ananya.mishra673@outlook.com,2025-10-08,Active
+626,Ananya Rao,NULL,Vijayawada,IT,35000,ananya.rao209@example.com,2025-10-23,Active
+374,Manoj Singh,41,Warangal,Finance,32000,manoj.singh131@example.com,2021-04-01,Inactive
+234,Sanjay Joshi,25,Karimnagar,Marketing,28000,sanjay.joshi93@outlook.com,2026-02-26,On Leave
+568,Pooja Joshi,42,Mumbai,Support,32000,pooja.joshi699@example.com,2022-01-15,Active
+318,Aditya Gupta,23,Warangal,Finance,42000,aditya.gupta178@outlook.com,2024-04-29,Active
+411,Neha Rao,53,Hyderbad,HR,82000,neha.rao326@outlook.com,2025-07-01,On Leave
+643,Kavya Chowdhury,33,Karimnagar,HR,68000,kavya.chowdhury136@outlook.com,2022-10-23,Active
+359,Rahul Mishra,48,Vijayawada,Marketing,48000,rahul.mishra553@outlook.com,2024-09-20,Active
+259,pooja das,38,Chennai, Support ,28000,pooja.das42@gmail.com,2023-12-20,Inactive
+283,Priyaa Reddy,45,Vijayawada,Finance,52000,priya.reddy70@example.com,2025-08-07,On Leave
+377,Pooja Shetty,27,Siddipet,HR,68000,pooja.shetty337@gmail.com,2025-12-23,Inactive
+385,Sanjay Yadav,29,Vijayawada,IT,35000,sanjay.yadav196@gmail.com,2021-01-29,Active
+225,Sneha Naidu,58,Pune,Sales,42000,sneha.naidu663@example.com,2021-11-27,Active
+683,Arjun Reddy,31,Pune,Sales,82000,arjun.reddy727@example.com,2025-11-30,Inactive
+588,Rohan Verma,47,Siddipet,IT,60000,rohan.verma152@example.com,2023-11-01,On Leave
+473,Ananya Sharma,28,Mumbai,Operatons,,ananya.sharma132@yahoo.com,2021-03-22,On Leave
+348,Manoj Das,32,Pune,Finance,82000,manoj.das690@gmail.com,2023-06-20,Active
+506, Sanjay Reddy ,54,DELHI,Operations,60000,sanjay.reddy796@yahoo.com,2024-03-29,On Leave
+399,Neha Das,40,Delhi,HR,52000,neha.das683@yahoo.com,2022-08-06,On Leave
+665,Aarav Patel,37,Chennai,Sales,35000,aarav.patel229@outlook.com,2025-10-19,On Leave
+648,Nikhil Mishra,unknown,VIJAYAWADA,HR,35000,nikhil.mishra300@example.com,2024-05-29,Inactive
+614,Arjun Chowdhury,56,Warangal,Support,60000,arjun.chowdhury502@outlook.com,2023-06-24,On Leave
+607,Isha Gupta,36,Pune,Finance,95000,NULL,2022-10-22,On Leave
+557,Pooja Reddy,41,Warangal,Marketing,68000,POOJA.REDDY958@OUTLOOK.COM,2023-10-29,Inactive
+578,Priya Gupta,42, Chennai ,IT,82000,priya.gupta849@outlook.com,2026-03-05,On Leave
+86,Pooja Rao,46,Hyderabad,IT,,pooja.rao526@yahoo.com,2023-01-15,Active
+243,Aarav Singh,59,Siddipet,Finance,95000,aarav.singh591@yahoo.com,2022-02-12,Inactive
+160,Kiran Reddy,53,Karimnagar,Finance,60000,kiran.reddy694@outlook.com,2021-04-11,Inactive
+525,Pooja Mishra,27,Vijayawada,Operations,82000,pooja.mishra826@gmail.com,2021-06-29,Active
+36,Vikram Verma,32,Chenai,Operations,75000,vikram.verma222@example.com,2022-01-28,Inactive
+541, Kavya Das ,37,mumbai,IT,28000,kavya.das804@gmail.com,2025-12-15,Active
+171, Aditya Mishra ,25,Karimnagar,hr,68000,,2025-06-25,Inactive
+616,Arjun Rao,51,Hyderabad,Marketing,28000,arjun.rao648@example.com,2024-05-29,Inactive
+608,Nikhil Das,52,Siddipet,IT,60000,nikhil.das642@example.com,2021-12-16,Active
+677,Rohan Yadav,44,Mumbai,Finance,32000,rohan.yadav658@gmail.com,2023-05-24,On Leave
+96,Pooja Kumar,46,Vijayawada,Operations,52000,pooja.kumar47@example.com,2023-01-20,Active
+564,Kiran Rao,51,Vijayawada,Sales,32000,kiran.rao986@example.com,2023-02-11,On Leave
+241,Aditya Kumar,27,Delhi,Operations,42000,aditya.kumar277@yahoo.com,2025-01-16,On Leave
+575,Neha Patel,35,Pune,Operations,52000,neha.patel731@outlook.com,2023-06-28,Inactive
+461,Sneha Chowdhury,33, Bengaluru ,Finance,82000,sneha.chowdhury147@gmail.com,2024-12-29,Active
+554,Divya Sharma,39,pune,IT,N/A,divya.sharma608@gmail.com,2025-08-18,Active
+631,NEHA VERMA,48,Siddipet,Support,35000,neha.verma778@example.com,2023-12-25,On Leave
+207,Ananya Rao,39,Vijayawada,HR,28000,ananya.rao772@gmail.com,2022-02-22,Inactive
+393,Kiran Mishra,28,chennai,Finance,35000,kiran.mishra207@example.com,2025-10-04,Inactive
+398,Priya Das,53,Chennai,Finance,N/A,priya.das127@gmail.com,2022-12-27,On Leave
+609,Kavya Joshi,54,Warangal,HR,48000,kavya.joshi210@outlook.com,2024-11-03,On Leave
+218,Divya Joshi,52,Siddipet,HR,52000,NULL,2023-07-12,On Leave
+5,Rohan Patel,50,Pune,Sales,95000,rohan.patel272@yahoo.com,2021-10-20,Active
+642,Rahul Joshi,22,Delhi,OPERATIONS,60000 INR,rahul.joshi625@yahoo.com,2022-10-28,Active
+547,sneha patel,57,Siddipet,IT,28000,sneha.patel245@gmail.com,2022-06-30,On Leave
+99,Isha Rao,24,Delhi,Marketing,42000,,2024-04-10,On Leave
+574,Aarav Das,25,Karimnagar,Support,28000,aarav.das130@example.com,2021-04-27,Active
+407,RAHUL KUMAR,31,Vijayawada,sales,95000,rahul.kumar630@outlook.com,2021-05-01,Active
+503,Sneha Verma,30,Siddipet,IT,82000,sneha.verma439@outlook.com,2021-12-31,On Leave
+48, Kiran Reddy ,42,Pune,Support,48000,kiran.reddy710@example.com,2024-06-30,On Leave
+33,Pooja Kumar,55,Mumbai,Operations,48000,pooja.kumar496@example.com,2025-05-06,Inactive
+201,Nikhil Verma,35,Chennai,Support,28000,nikhil.verma466@outlook.com,2024/13/40,On Leave
+135,Meera Gupta,42,Warangal,Marekting,35000,meera.gupta437@example.com,2024-02-21,Active
+28,Aarav Verma,47,Vijayawada,SUPPORT,60000,aarav.verma766@yahoo.com,2024-01-08,Inactive
+633,Priya Gupta,26,Bengaluru,HR,35000,priya.gupta97@yahoo.com,2024-01-01,On Leave
+231,Divya Joshi,29,Chennai,Support,60000,divya.joshi885@gmail.com,2025-10-18,On Leave
+490,Pooja Naidu,,Hyderabad,Marketing,60000,pooja.naidu113outlook.com,2022-09-16,Inactive
+379,Priya Chowdhury,45,Siddipet,Marketing,NULL,priya.chowdhury409@outlook.com,2021-07-09,Active
+289,Kavya Naidu,40,Vijayawada,HR,unknown,kavya.naidu115@outlook.com,2021-12-25,Active
+419,Priyaa Shetty,48,Pune,IT,48000,priya.shetty105@gmail.com,2021-05-15,On Leave
+392,PRIYA SHETTY,28,Pune,Support,68000,priya.shetty801@gmail.com,2021-08-05,On Leave
+593,Meera Mishra,34, Vijayawada ,HR,32000,meera.mishra859@yahoo.com,2024-02-05,Active
+499,Ananya Mishra,31,VIJAYAWADA,Finace,48000,ananya.mishra182@example.com,2025-12-18,On Leave
+139,nikhil naidu,22,Warangal,IT,82000,nikhil.naidu780@yahoo.com,2025-06-18,Inactive
+63, Priya Joshi ,28,Mumbai,Marketing,52000,priya.joshi363@example.com,2023-04-22,On Leave
+472,Neha Kumar,46,Bengaluru,Support,28000,neha.kumar838@example.com,2024-02-13,Active
+129,Nikhil Reddy,46,Warangal,Finance,28000,nikhil.reddy862@example.com,2022-11-12,Inactive
+700,Nikhil Chowdhury,49,Warangal,Marketing,35000,nikhil.chowdhury638@gmail.com,2021-03-04,On Leave
+521,Rohan Yadav,43,Vijayawada,HR,42000,rohan.yadav494@example.com,2023-05-09, On Leave 
+65,Kiran Chowdhury,34,Hyderabad,IT,75000,kiran.chowdhury430@example.com,2023-02-10,Inactive
+15,Divya Naidu,21,Chennai,Support,32000,divya.naidu637@gmail.com,2023-07-28,Active
+157,vikram gupta,24,Karimnagar,Sales,68000,vikram.gupta729@outlook.com,2021-10-19,Active
+41,SNEHA NAIDU,NULL,Vijayawada,Operations,60000,sneha.naidu553@example.com,2023-10-22,Inactive
+493,Pooja Gupta,43,Vijayawada,SUPPORT,75000,pooja.gupta375@example.com,2026-01-07,On Leave
+380,Isha Yadav,59,Bengaluru,Operations,48000,isha.yadav368@gmail.com,2021-09-26,Inactive
+188,Rohan Singh,unknown,Delhi,Sales,35000,rohan.singh733@yahoo.com,2025-11-02,Active
+217,Ananya Kumar,33,Karimnagar,Marketing,,ananya.kumar186@gmail.com,2021-08-23,On Leave
+53,Priya Joshi,26,Chennai,Operations,35000,priya.joshi303@outlook.com,2026-02-06,On Leave
+338,Kavya Rao,26,Pune,Support,75000,kavya.rao746@example.com,2022-03-18,On Leave
+296,Aditya Singh,55,Bengaluru,Marketing,52000,aditya.singh242@yahoo.com,2024-11-22,On Leave
+252,Meera Chowdhury,27,Hyderabad,HR,68000,meera.chowdhury682@yahoo.com,2023-12-04,Inactive
+462,Ananya Yadav,22,Siddipet,IT,60000,ananya.yadav952@outlook.com,2021-11-25,Inactive
+456,Ananya Chowdhury,32,Warangal,HR,68000,ananya.chowdhury972@gmail.com,2023-10-27,Inactive
+145,Aarav Singh,40,Karimnagar,Operations,35000,aarav.singh896@outlook.com,2021-11-22,Active
+270,Divya Das,53,Bengaluru,HR,60000,divya.das102@outlook.com,2024-12-24,inactive
+202,Divya Gupta,23,Mumbai,Finance,32000,divya.gupta169@example.com,2026-01-11,Active
+162,Nikhil Sharma,46,Warangal,Marketing,60000,nikhil.sharma31@example.com,2023-10-14,On Leave
+556,Divya Kumar,41,Delhi,Sales,95000,divya.kumar593@yahoo.com,2025-07-06,On Leave
+402,Pooja Reddy,39,Siddipet,Finance,82000,pooja.reddy536@yahoo.com,2021-03-24,Active
+477,Rohaan Mishra,38,Siddipet,Finance,52000,rohan.mishra890@yahoo.com,2021-10-27,Inactive
+106,Arjun Chowdhury,39,Warangal,IT,52000,arjun.chowdhury691@yahoo.com,2024-03-08,Active
+566,Pooja Shetty,37,Siddipet,IT,82000,pooja.shetty39@gmail.com,2021-08-23,Inactive
+390,Rahul Mishra,33,Pune,HR,35000,rahul.mishra621@example.com,2021-11-17,Active
+2,Aaarav Yadav,42,Warangal,Operations,60000,aarav.yadav160@yahoo.com,2022-07-24,Inactive
+672,Sanjay Yadav,31,Delhi,Operations,75000,sanjay.yadav103@gmail.com,2021-11-20,Inactive
+562,Aditya Naidu,46,Chennai,OPERATIONS,48000,aditya.naidu715@gmail.com,2023-03-02, Inactive 
+81,Manoj Joshi,39,Karimnagar,Operations,35000,manoj.joshi2@outlook.com,2023-05-30,Active
+206,Sneha Yadav,58,Chennai,Marketing,68000,sneha.yadav966@example.com,2024-03-14,on leave
+35,Isha Naidu,35,Hyderabad,IT,48000,isha.naidu709@yahoo.com,2023-04-09,Inactive
+509,Aarav Rao,23,Siddipet,HR,28000,aarav.rao770@yahoo.com,2024-05-22,On Leave
+428,Ananya Verma,52,Chennai,marketing,68000,ananya.verma275@example.com,2023-08-29,On Leave
+455,Aditya Yadav,38,Chennai,Support,,aditya.yadav215@example.com,2025-03-14,On Leave
+367,Isha Chowdhury,48,Bengaluru,Support,52000,isha.chowdhury941@gmail.com,,Active
+92,RAHUL GUPTA,30, Warangal ,Marketing,82000,rahul.gupta675@outlook.com,2024/13/40,On Leave
+340,Divya Das,56,Delhi,Finance,68000,divya.das475@yahoo.com,2025-02-24,Active
+565,Sanjay Reddy,35,Hyderabad,IT,35000,sanjay.reddy682@gmail.com,2021-07-17,Inactive
+346,SNEHA SHARMA,51,Mumbai,Marketing,28000,sneha.sharma931@outlook.com,2021-09-01,Active
+242,manoj gupta,40,chennai,Support,68000,manoj.gupta576@gmail.com,2022-05-29,Inactive
+14,Ananya Reddy,36,Delhi,IT,95000,ananya.reddy123@yahoo.com,2023-04-07,On Leave
+316,Priya Singh,,Siddipet,hr,95000,priya.singh963@yahoo.com,,On Leave
+601,aarav yadav,43,Bengaluru,IT,52000,aarav.yadav785@gmail.com,2025-04-20,On Leave
+388,Rohan Gupta,47,Siddipet,Finance,95000,rohan.gupta485@gmail.com,2025-12-26,Inactive
+274,Nikhil Chowdhury,27,Vijayawada,HR,42000,,2021-09-27,On Leave
+167,Aditya Chowdhury,54,Warangal,Support,32000,aditya.chowdhury374@gmail.com,2025-10-29,Inactive
+68,Aarav Naidu,57,Siddipet,Support,52000,aarav.naidu588@example.com,2023-05-30,On Leave
+647,Rohan Yadav,57,Pune,Operations,48000,rohan.yadav609@gmail.com,2022-07-18,Active
+485,Isha Sharma,37,Warangal,Support,95000,isha.sharma482@example.com,2022-04-09,Inactive
+159,Sneha Kumar,47,Pune,Sales,52000,sneha.kumar549@outlook.com,2021-09-05,Active
+505,Kiran Kumar,52,Bengaluru,Finance,52000,kiran.kumar493@example.com,2023-05-19,On Leave
+244,Rohan Singh,25,Delhi,Marketing,60000,rohan.singh166@outlook.com,2021-06-12,Active
+567,Arjun Naidu,35,Pune,Operations,48000,arjun.naidu760@yahoo.com,2022-02-17,Inactive
+563,Kavya Kumar,38,Pune,Operations,68000,NULL,2021-01-19,On Leave
+190,Kavya Rao,53,Warangal,IT,60000,kavya.rao314@yahoo.com,2024-04-20,Active
+476,Vikram Reddy,33,Vijayawada,Operations,95000,vikram.reddy382@yahoo.com,2025-01-03,Inactive
+682,Sneha Gupta,59,Vijayawada,Marketing,32000,sneha.gupta238@example.com,2023-08-23,Inactive
+511,Ananya Sharma,33,Chennai,Operations,60000,ananya.sharma112@gmail.com,2024/13/40,Active
+59,kiran gupta,28,Vijayawada,SUPPORT,unknown,kiran.gupta888@gmail.com,2024-09-15,Active
+475,Vikram Kumar,58,delhi,Marketing,42000,vikram.kumar285@yahoo.com,2023-01-06,On Leave
+561,Meera Das,49,MUMBAI,Finance,82000,meera.das674@gmail.com,2025-10-26,Inactive
+253, Kavya Shetty ,34,Hyderabad,Support,95000,kavya.shetty242@example.com,2021-08-20,Inactive
+22,Rohan Joshi,40,Chennai,Operations,32000,rohan.joshi317@example.com,2023-11-05,Inactive
+314,Rahul Verma,26,Mumbai,Support,52000,rahul.verma471@outlook.com,2025-09-19,On Leave
+460,Vikram Sharma,44,Chennai,IT,95000,vikram.sharma47@outlook.com,2025-11-24,On Leave
+161,Priya Das,46,Karimnagar,hr,42000,priya.das703@gmail.com,2023-02-02,On Leave
+277,Priyaa Gupta,23,Siddipet,Sales,N/A,priya.gupta252@example.com,2025-12-03,On Leave
+192,Sneha Mishra,47 years,Hyderabad,IT,32000,sneha.mishra390@gmail.com,2023-06-29,On Leave
+386,Nikhil Kumar,28,Pune,Saless,28000,nikhil.kumar925@yahoo.com,2021-12-07,On Leave
+414,Kavya Sharma,34,Vijayawada,Sales,82000,kavya.sharma201@example.com,2021-01-15,Active
+492,Sanjay Reddy,59,Siddipet, HR ,95000,sanjay.reddy43@yahoo.com,2021-09-04,Active
+344,Manoj Patel,54,KARIMNAGAR,Support,75000,manoj.patel545@gmail.com,2025-09-29,Inactive
+309,Aarav Mishra,,Hyderabad,Support,32000,NULL,2023-04-23,On Leave
+662,Arjun Rao,29,Delhi, Operations ,28000 INR,arjun.rao658@example.com,2021-09-02,Inactive
+131,Nikhil Chowdhury,25,Karimnagar,Sales,48000,nikhil.chowdhury869@example.com,2025-08-05,On Leave
+664,Pooja Das,30,Vijayawada,Sales,68000,pooja.das339@gmail.com,2024-08-25, Active 
+100,Vikram Singh,51,Mumbai,Support,82000,vikram.singh869@gmail.com,2025-11-23,On Leave
+373,Sravya Chowdhury,53,Hyderabad,IT,NULL,sravya.chowdhury391@outlook.com,2024-06-23,Inactive
+88,Sravya Rao,29,Pune, HR ,32000,sravya.rao76@example.com,2025-10-13,Active
+459,Rohan Yadav,46,Siddipet,IT,68000,rohan.yadav856@yahoo.com,2025-01-25,Active
+331,nikhil reddy,39,Siddipet,Sales,35000,nikhil.reddy112@yahoo.com,2021-06-07,Inactive
+215,Rahul Verma,40,Mumbai,it,48000,rahul.verma89@outlook.com,2024-05-27,Inactive
+467,Priya Shetty,46,Warangal,Support,68000,priya.shetty835@yahoo.com,2022-09-05,Active
+122,Meera Chowdhury,26,Karimnagar,Finance,95000,meera.chowdhury879@gmail.com,2024-08-31,Active
+615,Vikram Singh,33,Chennai,HR,28000,vikram.singh370yahoo.com,2023-06-25,ACTIVE
+21,Arjun Kumar,27,Delhi,Finance,28000,arjun.kumar445@outlook.com,NULL,ON LEAVE
+198,Rohan Sharma,57,Mumbai, Support ,82000,rohan.sharma979@outlook.com,2022-04-04,On Leave
+72,Neha Yadav,33,HYDERABAD,Sales,82000,neha.yadav620@example.com,2022-10-21,On Leave
+107,Aarav Rao,38,Bengaluru,hr,68000,aarav.rao310@gmail.com,2022-11-07,Inactive
+271,Ananya Sharma,43,chennai,Operations,52000,ananya.sharma310yahoo.com,2024-07-04,On Leave
+436,Neha Singh,45,Pune,Operations,32000,neha.singh887@yahoo.com,2026-01-25,Active
+103,Meera Patel,NULL,Hyderabad,Operations,75000,meera.patel239@gmail.com,2024-07-30,Active
